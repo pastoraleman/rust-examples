@@ -1,0 +1,9 @@
+[package]
+name = "packetleech"
+version = "0.1.0"
+authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+
+[dependencies]
+
+[dependencies.pnet]
+version = "0.7.4"

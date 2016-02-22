@@ -1,0 +1,6 @@
+[package]
+name = "rust-example-ipv4convert"
+version = "0.1.0"
+authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+
+[dependencies]

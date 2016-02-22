@@ -1,0 +1,8 @@
+[package]
+name = "rust-example-time"
+version = "0.1.0"
+authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+
+[dependencies]
+chrono = "0.2.19"
+time = "*"
