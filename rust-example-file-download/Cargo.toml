@@ -1,0 +1,7 @@
+[package]
+name = "rust-example-file-download"
+version = "0.1.0"
+authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+
+[dependencies]
+hyper = "0.9"
